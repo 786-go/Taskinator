@@ -118,6 +118,7 @@ var taskButtonHandler = function(event) {
     }
     else if (targetEl.matches(".delete-btn")) {
         var taskId = targetEl.getAttribute("data-task-id");
+        console.log(taskId);
         deleteTask(taskId);
     }
 };
@@ -134,7 +135,7 @@ var taskStatusChangeHandler = function(event) {
         tasksInProgressEl.appendChild(taskSelected);
     }
     else if (statusValue === "completed") {
-        tasksInProgressEl.appendChild(taskSelected);
+        tasksCompletedEl.appendChild(taskSelected);
     }
 };
 
@@ -153,7 +154,7 @@ var editTask = function(taskId) {
 
 
 var deleteTask = function(taskId) {
-    var taskSelected = document.querySelector(".task-item[data-task-id='" + taskId + " ']");
+    var taskSelected = document.querySelector(".task-item[data-task-id='" + taskId + "']");
     taskSelected.remove();
 };
 
