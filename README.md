@@ -20,7 +20,8 @@ This app could be dubbed a "glorified to-do list"; it allows one to schedule tas
 None. The program runs smoothly in the browser. 
 
 ### Usage
-None. The CSS makes this program enjoyable to use. 
+None. The CSS makes this program intuitive and enjoyable to use. 
+Link to deployed app: https://786-go.github.io/Taskinator/
 
 ### License
 ![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)
@@ -33,7 +34,6 @@ Please contact me through GitHub or LinkedIn.
 None. 
 
 ### Questions
-Email :n/a
 Developer's Profile:
 [Github](https://github.com/786-go)
 
