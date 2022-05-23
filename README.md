@@ -28,7 +28,7 @@ Link to deployed app: https://786-go.github.io/Taskinator/
 MIT
 
 ### Contribute
-Please contact me through GitHub or LinkedIn. 
+Please contact me through GitHub or [LinkedIn](https://www.linkedin.com/in/noorullah-wardak-b35b1a23a?trk=public_profile_samename-profile). 
 
 ### Tests
 None. 
