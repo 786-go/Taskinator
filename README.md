@@ -1,5 +1,5 @@
 
-# Project Title: "The Taskinator". 
+# Project Title: "The Taskinator"
 
 ## Table Of Contents
 ----------------------
